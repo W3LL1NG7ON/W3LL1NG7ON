@@ -13,7 +13,7 @@
   
   <div align="center" style="display: inline_block"><br>
    <a href = "https://pt.wikipedia.org/wiki/HTML5" target ="_blank"><img align="center" alt="W3LL-HTML"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-   <a href = "https://pt.wikipedia.org/wiki/CSS35" target ="_blank"><img align="center" alt="W3LL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+   <a href = "https://pt.wikipedia.org/wiki/CSS3" target ="_blank"><img align="center" alt="W3LL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
    <a href = "https://pt.wikipedia.org/wiki/JavaScript" target ="_blank"><img align="center" alt="W3LL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   
 </div>
