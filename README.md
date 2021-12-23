@@ -12,7 +12,7 @@
 </div>
   
   <div align="center" style="display: inline_block"><br>
-   <img align="center" a href = "https://pt.wikipedia.org/wiki/HTML5" target="_blank" alt="W3LL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" <a href = "https://pt.wikipedia.org/wiki/HTML5" target="_blank" alt="W3LL-HTML"></a> height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="W3LL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="W3LL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
