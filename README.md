@@ -1,7 +1,7 @@
 ### Olá eu sou Wellington Leite 👋
 
  - 🔭 Em transição de carreira
- - 🌱 Estudando desenvolvimento web pela plataforma digital inovation one  
+ - 🌱 Estudando desenvolvimento web   
  - 😄 Pronomes: Ele/Dele
  - 😎🎮📖🎶
 
